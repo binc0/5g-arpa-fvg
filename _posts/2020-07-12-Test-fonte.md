@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Cosa significano FTTC, FTTS, FTTE, FTTH e FWA
-authors: [Matteo Fibra.Click]
+author: Matteo Fibra.Click
+ref: Fibra
+lang: it
 description: Le sigle indicano diversi tipi di architetture di rete, in particolare in base all'estensione della tratta in fibra ottica della connessione.
 categories: [Definizioni, FTTC, FTTH, FWA]
 tags: [Definizioni, FTTC, FTTH, FWA]
