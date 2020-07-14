@@ -6,11 +6,9 @@
           <a class="d-none d-lg-block navbar-brand" href="{{ site.data.t.owner.link }}">{{ site.data.t.owner.name }}</a>
           <div class="nav-mobile">
             <nav>
-              <a class="it-opener d-lg-none" data-toggle="collapse" href="#menu1" role="button" aria-expanded="false" aria-controls="menu1">
+              <a class="it-opener d-lg-none" data-toggle="collapse" href="{{ site.data.t.owner.link }}" role="button" aria-expanded="false" aria-controls="menu1">
+                <img src="{{ site.data.t.owner.imagex }}">
                 <span>{{ site.data.t.owner.name }}</span>
-                <svg class="icon">
-                  <use xlink:href="{{ site.baseurl }}/assets/bootstrap-italia/dist/svg/sprite.svg#it-expand"></use>
-                </svg>
               </a>
             </nav>
           </div>
