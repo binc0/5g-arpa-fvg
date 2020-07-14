@@ -21,8 +21,8 @@ author:
 
 owner:
     name : Regione Autonoma Friuli Venezia Giulia
-    icon: "/assets/images/fvg.svg"
-
+    icon : "/assets/images/fvg.svg"
+    link : http://www.regione.fvg.it
 
 ## Social
 social-links:
