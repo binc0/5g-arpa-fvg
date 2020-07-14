@@ -4,9 +4,9 @@
 environment: "production"
 
 
-title: Smart Spilimbergo
+title: Arpa FVG
 
-description: Città e innovazione
+description: 5G e Onde Elettromagnetiche
 
 #Must add tags
 
@@ -27,13 +27,13 @@ google_analytics:
 
 # Your website URL (e.g. http://example.github.io or http://www.example.com)
 # Used for Sitemap.xml and your RSS feed
-url: "https://smartspilimbergo.github.io"
+url: "https://binc0.github.io"
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "/news"
+baseurl: "/5g-arpa-fvg"
 
 #
 # !! You don't need to change any of the configuration flags below !!
