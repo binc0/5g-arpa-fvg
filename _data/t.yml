@@ -7,25 +7,18 @@ social-card: /assets/images/favicons/social-card.png
 
 ## Site name
 name:
-  it: "Smart Spilimbergo"
+  it: "Arpa FVG"
 
 ## Site description
 description:
-  it: "Città e innovazione"
+  it: "5G e Onde Elettromagnetiche"
 
 ## Site author
 author:
-  it: "Binco"
+  it: "Arpa FVG"
 
 ## Social
 social-links:
-  it:
-    twitter:
-      name: "facebook"
-      url: "https://facebook.com/smartspilimbergo"
-    medium:
-      name: "github"
-      url: "https://github.com/smartspilimbergo"
 
 ## Labels
 italian-version:
