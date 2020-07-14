@@ -3,7 +3,7 @@
     <div class="row">
       <div class="col-12">
         <div class="it-header-slim-wrapper-content">
-          <a class="d-none d-lg-block navbar-brand" href="http://www.comune.spilimbergo.pn.it/home/index.html">Comune di Spilimbergo</a>
+          <a class="d-none d-lg-block navbar-brand" href="{{ site.data.t.owner.link }}">{{ site.data.t.owner.name }}</a>
           <div class="nav-mobile">
             <nav>
               <a class="it-opener d-lg-none" data-toggle="collapse" href="#menu1" role="button" aria-expanded="false" aria-controls="menu1">
@@ -15,9 +15,9 @@
             </nav>
           </div>
           <div class="header-slim-right-zone">
-            <!-- Language Switch -->
+            <!-- Language Switch 
             {% include header/header-lang-switch.html %}
-            <!-- Account options -->
+             Account options -->
             {% comment %}
             <div class="it-access-top-wrapper">
               <button class="btn btn-primary btn-sm" href="#" type="button">Accedi</button>
