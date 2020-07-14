@@ -27,7 +27,8 @@ owner:
 
 ## Social
 social-links:
-
+    rss:
+        link: https://binc0.github.io/5g-arpa-fvg/feed
 ## Labels
 italian-version:
   en: "Italian version"
