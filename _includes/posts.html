@@ -13,12 +13,12 @@
                 <div><span class="data">{% include date.html date=post.date %}</span></div>
               </div>
             </div>
-            <a class="read-more" href="{{ site.baseurl }}{{ post.url }}">
+            <a href="{{ site.baseurl }}{{ post.url }}">
                 <h5 class="card-title big-heading">{{ post.title }}</h5>
             </a>
             <h6 class="card-subtitle">in {% for category in post.categories %}{{ category }} {% endfor %}</h6>
-            <a class="read-more" href="{{ site.baseurl }}{{ post.url }}">
-              <div class="card-text">{{ post.excerpt }}</div>
+            <a href="{{ site.baseurl }}{{ post.url }}">
+              <div class="card-text">{{ post.description }}</div>
             </a>
             <span class="card-signature">{{ post.author }}</span>
             <a class="read-more" href="{{ site.baseurl }}{{ post.url }}">
