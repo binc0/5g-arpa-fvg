@@ -17,6 +17,13 @@ description:
 author:
   it: "Arpa FVG"
 
+## Owner
+
+owner:
+    name : Regione Autonoma Friuli Venezia Giulia
+    icon: "/assets/images/fvg.svg"
+
+
 ## Social
 social-links:
 
