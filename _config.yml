@@ -7,6 +7,10 @@ environment: "production"
 title: Smart Spilimbergo
 
 description: Città e innovazione
+
+tag_feed_layout: tag_feed
+tag_feed_dir: tag
+
 #
 # Flags below are optional
 #
