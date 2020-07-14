@@ -10,7 +10,7 @@ layout: default
   </div>
 
   <div class="date">
-    Scritto il {{ page.date | date: "%d/%m/%Y" }}
+    Scritto il {{ page.date | date: "%d/%m/%Y" }} da {{ post.author }}
   </div>
 
   {% include disqus.html %}
