@@ -18,7 +18,7 @@
             </a>
             <h6 class="card-subtitle">in {% for category in post.categories %}{{ category }} {% endfor %}</h6>
             <a href="{{ site.baseurl }}{{ post.url }}">
-              <div class="card-text">{{ post.description }}</div>
+              <div class="card-text">{{ post.excerpt }}</div>
             </a>
             <span class="card-signature">{{ post.author }}</span>
             <a class="read-more" href="{{ site.baseurl }}{{ post.url }}">
