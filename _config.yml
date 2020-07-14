@@ -8,8 +8,7 @@ title: Smart Spilimbergo
 
 description: Città e innovazione
 
-tag_feed_layout: tag_feed
-tag_feed_dir: tag
+#Must add tags
 
 #
 # Flags below are optional
@@ -53,7 +52,6 @@ sass:
 plugins:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
-  - jekyll-tagging
 
 # Exclude these files from your production _site
 exclude:
