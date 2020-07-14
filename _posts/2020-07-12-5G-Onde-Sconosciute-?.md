@@ -3,6 +3,7 @@ layout: post
 author: Binco
 title: 5G Onde sconociute ?
 lang: it
+excerpt: Questa è una breve descrizione dell'articolo scritto.
 ref: 5g-onde
 categories: [telecomunicazioni]
 tags: [5G, telecomunicazioni]
