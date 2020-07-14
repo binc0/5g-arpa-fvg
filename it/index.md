@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 5G e Campi Elettromagnetici
-description: Questo è un esempio di homepage con utilizzo del componente "hero"
+description: Al via il progetto "5G e Campi elettromagnetici
 lang: it
 ref: homepage
 permalink: /
