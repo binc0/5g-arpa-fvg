@@ -11,7 +11,7 @@ layout: default
         Scritto il {{ page.date | date: "%d/%m/%Y" }} da {{ page.author }}
     </div>
     
-    <div>{% for tag in page.tags %}<a class="card-tag mr-2" href="#">{{ tag }}</a>{% endfor %}</div>
+    <div>{% for tag in page.tags %}<a class="card-tag mr-2" href="/{{ tag }}">{{ tag }}</a>{% endfor %}</div>
     
   <div class="entry">
     {{ content }}
