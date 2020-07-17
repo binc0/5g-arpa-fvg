@@ -72,7 +72,7 @@ tutte le pagine del sito che:
               <div class="menu-wrapper">
                 <ul class="navbar-nav">
                   {% for menu_page in current_lang_menu_pages %}
-                  <li class="nav-item {% if permalink == menu_page.permalink %}active{% endif %}">
+                  <li class="nav-item {% if permalink == page.permalink %}active{% endif %}">
                     <a class="nav-link" href="{{ site.baseurl }}{{menu_page.permalink}}"><span>{{menu_page.title}}</span></a>
                   </li>
                   {% endfor %}
