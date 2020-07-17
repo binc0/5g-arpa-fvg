@@ -72,8 +72,8 @@ tutte le pagine del sito che:
               <div class="menu-wrapper">
                 <ul class="navbar-nav">
                   {% for menu_page in current_lang_menu_pages %}
-                  <li class="nav-item {% if 1 == 1 %}active{% endif %}">
-                    <a class="nav-link" href="{{ site.baseurl }}{{menu_page.permalink}}"><span>{{menu_page.title}}</span></a>
+                  <li class="nav-item">
+                    <a class="nav-link {% if permalink == page.permalink %}active{% endif %}" href="{{ site.baseurl }}{{menu_page.permalink}}"><span>{{menu_page.title}}</span></a>
                   </li>
                   {% endfor %}
                 </ul>
