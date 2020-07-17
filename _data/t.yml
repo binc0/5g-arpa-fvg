@@ -28,8 +28,8 @@ owner:
 ## Social
 social-links:
     it:
-        rss:
-            name: "rss"
+        wifi:
+            name: "wifi"
             url: "https://binc0.github.io/5g-arpa-fvg/feed"
             
             
